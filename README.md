@@ -25,7 +25,7 @@ Once the DAG was set up, I focused on executing the pipeline, which involved set
 3. Amazon EC2
 4. Amazon S3
 ****
-What did i learn through this project:****
+What did i learn through this project:
 
 Through this project, I gained hands-on experience in building a data pipeline from start to finish, which greatly enhanced my understanding of data engineering. I learned how to use Apache Airflow to schedule and manage workflows, as well as how to extract data from the Zitter API and process it for further analysis.
 
